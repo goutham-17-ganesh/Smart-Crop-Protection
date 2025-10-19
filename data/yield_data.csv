@@ -1,0 +1,11 @@
+region,year,crop,yield_ton_per_hectare
+Maharashtra,2020,wheat,2.5
+Maharashtra,2021,wheat,2.8
+Punjab,2020,rice,3.2
+Punjab,2021,rice,3.4
+Kerala,2020,coconut,1.9
+Kerala,2021,coconut,2.1
+Karnataka,2020,maize,2.3
+Karnataka,2021,maize,2.6
+Bihar,2020,maize,1.8
+Bihar,2021,maize,2.0
